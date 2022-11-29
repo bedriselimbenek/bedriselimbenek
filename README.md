@@ -33,16 +33,16 @@ fields_of_interests:
   [
     "Data Science",
     "Machine Learning",
-    "Game Development”,
-    "DevOps",
+    "Data Anlaysis”,
+    "Deep Learning",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
+    "Intern - Data Analysis Learning in Python",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
   ]
-currently_learning: ["Docker, Python, Machine Learning, Data Science, "]
+currently_learning: ["Python, Git, Tableau, Machine Learning, Data Science, "]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"] *
 ```
