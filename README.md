@@ -7,9 +7,9 @@ src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/lin
 <br />
 
 
-[instagram]: https://www.instagram.com/notusingfornow03030303
-[linkedin]: https://www.linkedin.com/in/hltylmz/
-[gmail]: mailto:halityilmazofficial@gmail.com
+[instagram]: https://www.instagram.com/bselimbenek/
+[linkedin]: https://www.linkedin.com/in/selim-benek/
+[gmail]: mailto:bselimbenek@gmail.com
 <br />
 <br />
 <br />
